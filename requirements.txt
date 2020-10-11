@@ -1,0 +1,8 @@
+numpy==1.18.1
+scipy==1.5.0
+Flask==1.1.2
+PyQt5==5.15.1
+fancyimpute==0.5.5
+mayavi==4.7.2
+traits==6.1.1
+traitsui==7.0.1
