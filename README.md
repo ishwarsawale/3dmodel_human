@@ -9,6 +9,7 @@ human 3d model for body measures
     - Install requirements.txt
     - Start server by running server_api python file
     - Using sample post call to get updated model for 3d body model
+    - api/post endpoint will download updated 3d model object file based on weight provided
 
 ### Sample call
 ```
